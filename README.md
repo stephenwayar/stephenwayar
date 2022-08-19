@@ -1,8 +1,6 @@
 ### Full Stack Software Developer
 
-<b>Code: HTML | CSS | JavaScript | TypeScript</b>
-<br>
-<b>Tools: ReactJS | NextJS | TailwindCSS | ChakraUI | NodeJS | ExpressJS | MongoDB | Jest | Git 
+<b>Building with JavaScript | TypeScript | ReactJS | NextJS | TailwindCSS | ChakraUI | NodeJS | ExpressJS | MongoDB | Jest | Git</b>
 
 <a href="https://github.com/stephenwayar">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=stephenwayar" />

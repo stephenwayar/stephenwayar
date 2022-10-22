@@ -21,9 +21,6 @@ Find me on LinkedIn ➤ https://www.linkedin.com/in/stephen-bulus-551228184/
 ![https://img.icons8.com/color/24/mongodb.png](https://img.icons8.com/color/24/mongodb.png)
 ![https://img.icons8.com/color/24/git.png/](https://img.icons8.com/color/24/git.png/)
 
-
-
-
 <a href="https://github.com/stephenwayar">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=stephenwayar" />
 </a>

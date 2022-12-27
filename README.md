@@ -15,7 +15,7 @@
 <br />
 <br />
 
-I am a Full Stack Developer with over 2 years of experience designing, developing and testing applications using a range of modern technologies and programming languages. Building with HTML | CSS | JavaScript | TypeScript | ReactJS | NextJS | TailwindCSS | NodeJS | ExpressJS | MongoDB | Jest | Git 
+Building with HTML | CSS | JavaScript | TypeScript | ReactJS | NextJS | TailwindCSS | NodeJS | ExpressJS | MongoDB | Jest | Git 
 <br />
   
 I'm currently based in **[Abuja, Nigeria.](https://goo.gl/maps/hiUYkHCzdmErF4MX7)**

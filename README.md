@@ -16,9 +16,6 @@
 <br />
 
 Building with HTML | CSS | JavaScript | TypeScript | ReactJS | NextJS | TailwindCSS | NodeJS | ExpressJS | MongoDB | Jest | Git 
-<br />
-  
-I'm currently based in **[Abuja, Nigeria.](https://goo.gl/maps/hiUYkHCzdmErF4MX7)**
 
 <br />
 <br />

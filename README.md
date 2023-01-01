@@ -30,7 +30,7 @@ Building with HTML | CSS | JavaScript | TypeScript | ReactJS | NextJS | Tailwind
 <br />
 <br />
 
-**Happy Coding!** 😊
+**Build something incredible. Happy Coding!** 😊
 
 </div>
 

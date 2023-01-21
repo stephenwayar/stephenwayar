@@ -11,7 +11,7 @@
 </a>
 <br />
 <br />
-<img style="max-width:700px; width:700px;" src="https://blog.teoman.me/wp-content/uploads/2022/12/laravel-featured.png" alt="JS badge">
+<img style="max-width:700px; width:700px;" src="https://pbs.twimg.com/profile_banners/1229868451575091200/1672592846/1500x500" alt="JS badge">
 <br />
 <br />
 "We don't learn tools for the sake of learning tools. Instead, we learn them because they help us accomplish a particular goal."

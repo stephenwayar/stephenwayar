@@ -22,14 +22,6 @@ Building with HTML | CSS | JavaScript | TypeScript | ReactJS | NextJS | Tailwind
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenwayar&include_all_commits=true&count_private=true&show_icons=true&theme=light&line_height=30" alt="Steve's Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenwayar&layout=compact&theme=light" alt="Steve's Top Languages"/>
-<br />
-<br />
-<br />
-
 **Build something incredible. Happy Coding!** 😊
 
 </div>

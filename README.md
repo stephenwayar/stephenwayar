@@ -17,7 +17,7 @@
 "We don't learn tools for the sake of learning tools. Instead, we learn them because they help us accomplish a particular goal."
 <br />
 <br />  
-Building with HTML | CSS | JavaScript | TypeScript | ReactJS | NextJS | TailwindCSS | ChakraUI | Mantine | | NodeJS | ExpressJS | MongoDB | Jest | Git 
+Building with HTML | CSS | JavaScript | TypeScript | ReactJS | Redux | NextJS | TailwindCSS | ChakraUI | Mantine | | NodeJS | ExpressJS | MongoDB | Jest | Git 
 
 <br />
 <br />

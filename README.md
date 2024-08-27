@@ -11,13 +11,13 @@
 </a>
 <br />
 <br />
-<img style="max-width:700px; width:700px;" src="https://pbs.twimg.com/profile_banners/1229868451575091200/1672592846/1500x500" alt="JS badge">
+<img style="max-width:700px; width:700px;" src="https://github.com/stephenwayar/stephenwayar/blob/main/assets/1500x500.jpeg?raw=true" alt="JS badge">
 <br />
 <br />
 "We don't learn tools for the sake of learning tools. Instead, we learn them because they help us accomplish a particular goal."
 <br />
 <br />  
-Building with HTML | CSS | JavaScript | TypeScript | ReactJS | Redux | NextJS | TailwindCSS | ChakraUI | Mantine | | NodeJS | ExpressJS | MongoDB | Jest | Git 
+Building with HTML | CSS | JavaScript | TypeScript | ReactJS | Redux | NextJS | Tanstack Query | TailwindCSS | ChakraUI | Mantine | NodeJS | ExpressJS | MongoDB | Jest | Cypress | Git
 
 <br />
 <br />
